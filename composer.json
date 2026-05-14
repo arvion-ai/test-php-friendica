@@ -161,7 +161,7 @@
 		"phpmd/phpmd": "^2.15",
 		"phpstan/phpstan": "^2.0",
 		"phpstan/phpstan-strict-rules": "^2.0",
-		"phpunit/phpunit": "^9"
+		"phpunit/phpunit": "^9.6.34"
 	},
 	"scripts": {
 		"test": "phpunit",
